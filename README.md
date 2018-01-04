@@ -11,3 +11,5 @@ Mainteainer: Ezequiel Arielli e_ariel@hotmail.es
 *Pipeline generate Docker image:version(commit) and Upload to DockerRegistry/DockerHub
 
 *Download Docker Image from the registry and perform Deploy k8.
+
+*Lambda test
